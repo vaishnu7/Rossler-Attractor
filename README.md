@@ -20,8 +20,13 @@ Let us now return to our main topic of discussion on Rössler. The German Bioche
 </p>
 
 Here is a 3D image of the Rössler attractor with bifurcation values **a = 0.2, b=0.2, c=5.7**.
-![rossler](https://user-images.githubusercontent.com/39788520/118700060-dca97980-b82f-11eb-9ce1-e26930c387bd.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39788520/118700060-dca97980-b82f-11eb-9ce1-e26930c387bd.png" width="800" height="500" title="Rossler Attractor">)
+</p>
 
 Rössler studied this so called "chaotic attractor" and investivated using various bifurcation parametric values **a,b** and **c**. Before concluding this section, let us first know what is bifurcation ?
 
-These are sources for this file [S1](https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor) [S2](http://www.scholarpedia.org/article/Rossler_attractor)
+It is said that, _when a parameter value is varied, bifurcations may occur_. In other words, bifurcations are qualitative change in its dynamic produced by change in parameter. In this case, you must have noticed that the set of equations we have consist of some parameters namely "a, b and c", which are generated from variation. And due to this variation or change there occurs a sudden behavioural change or topological change of the system.
+
+These are sources for this file: [S1](https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor) [S2](http://www.scholarpedia.org/article/Rossler_attractor) [S3](https://en.wikipedia.org/wiki/Bifurcation_theory)
