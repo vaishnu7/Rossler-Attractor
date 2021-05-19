@@ -1,4 +1,3 @@
-
 ## Rössler attractor
 :disappointed_relieved: What is Rössler attractor and where is it coming from ?
 Well, to learn about Rössler attractor, let us first know what is an attractor.
