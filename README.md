@@ -30,3 +30,5 @@ Rössler studied this so called "chaotic attractor" and investivated using vario
 It is said that, _when a parameter value is varied, bifurcations may occur_. In other words, bifurcations are qualitative change in its dynamic produced by change in parameter. In this case, you must have noticed that the set of equations we have consist of some parameters namely "a, b and c", which are generated from variation. And due to this variation or change there occurs a sudden behavioural change or topological change of the system.
 
 These are sources for this file: [S1](https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor) [S2](http://www.scholarpedia.org/article/Rossler_attractor) [S3](https://en.wikipedia.org/wiki/Bifurcation_theory)
+# To Run The Code
+- You can try downloading the `ROSSLER.mlx` file and then execute it or else you may copy paste the code from `rossler.m` and try running it online [Here](https://in.mathworks.com/products/matlab-online.html)
