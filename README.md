@@ -1,5 +1,8 @@
 ## Rössler attractor
-:disappointed_relieved: What is Rössler attractor and where is it coming from ?
+:disappointed_relieved: What is Rössler attractor and where is it coming from ? - a system of three non-linear ordinary differential equations originally studied by _Otto Rössler_ in the 1970s. Find more about [him](https://en.wikipedia.org/wiki/Otto_R%C3%B6ssler).
+
+And fyi _Chaos theory_ is a field of mathematics that studies chaotic systems, which are dynamical systems driven by underlying patterns and deterministic rules that are very sensitive to initial circumstances. That German biochemist we talked about earlier ? He studied this field of mathematics 👓 Isn't it cool?
+
 Well, to learn about Rössler attractor, let us first know what is an attractor.
 Here are some of the details notion of an attractor:
 - in dynamic system (time dependence of a point in a geometric space) an attractor is defined as a set of numeric values toward which a system tends to evolve for a variety of initial conditions of the system. E.g. the evolving variable we mentioned in finite-dimensional systems, can be represented algebraically as an n-dimensional vector. If the evolving variable is in 2D or 3D, the attractor may be represented geometrically in 2D or 3D space respectively.
