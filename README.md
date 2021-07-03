@@ -1,7 +1,14 @@
 ## Rössler attractor
 :disappointed_relieved: What is Rössler attractor and where is it coming from ? - a system of three non-linear ordinary differential equations originally studied by _Otto Rössler_ in the 1970s. Find more about [him](https://en.wikipedia.org/wiki/Otto_R%C3%B6ssler).
 
-And fyi _Chaos theory_ is a field of mathematics that studies chaotic systems, which are dynamical systems driven by underlying patterns and deterministic rules that are very sensitive to initial circumstances. That German biochemist we talked about earlier ? He studied this field of mathematics 👓 Isn't it cool?
+And fyi _Chaos theory_ is a field of mathematics that studies chaotic systems, which are dynamical systems driven by underlying patterns and deterministic rules that are very sensitive to initial circumstances. For example I collected a really awesome gif of the behaviour of double rod pendulum.
+By Catslash - Own work, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=10404903)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39788520/124354415-8353a900-dc29-11eb-83fd-f18f3bf8e2e6.gif">
+</p>
+
+That German biochemist we talked about earlier ? He studied this field of mathematics 👓 Isn't it cool?
 
 Well, to learn about Rössler attractor, let us first know what is an attractor.
 Here are some of the details notion of an attractor:
